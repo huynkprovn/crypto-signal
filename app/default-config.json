@@ -1,6 +1,6 @@
 {
   "settings": {
-    "market_pairs": "BTC-USDT",
+    "market_pairs": "[BTC/USDT]",
     "loglevel": ""
   },
 
