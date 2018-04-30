@@ -2,10 +2,10 @@ version: '3'
 
 services:
   app:
-    image: crypto-signal
+    image: khachuyvk/crypto
     volumes:
       - ./app:/app
     env_file:
-      - .env
+      - config.env
 
 
